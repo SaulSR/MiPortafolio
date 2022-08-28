@@ -1,0 +1,1 @@
+Un poco sobre mi y mis conocimientos adquiridos a lo largo de el bootcamp Desarrollo web Full stack.
